@@ -57,3 +57,9 @@ a{
     position: absolute;
     right: 300px;
 }
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 20%;
+  border-width: 5px;
